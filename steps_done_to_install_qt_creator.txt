@@ -1,0 +1,7 @@
+
+
+1.	sudo apt-get install qtcreator -y
+
+2.	sudo apt-get install qtdeclarative5-dev
+
+3.	sudo apt install git-all
